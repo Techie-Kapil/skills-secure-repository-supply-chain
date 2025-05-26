@@ -1,3 +1,3 @@
 function attendeeName() {
-  document.getElementById("Name").innerHTML = "Enter Name.";
+  document.getElementById("Name").inner HTML = "Enter Name.";
 }
