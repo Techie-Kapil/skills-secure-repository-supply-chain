@@ -18,6 +18,7 @@ namespace Attendees
             if (added == "exists") {
                   return true;
             }
+            
             return false;
         }      
     }
